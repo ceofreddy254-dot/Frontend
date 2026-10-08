@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="400" viewBox="0 0 600 400" role="img" aria-label="Flag of Mozambique">
+  <rect width="600" height="400" fill="#f7f7f7"/>
+  <path fill="#009739" d="M0 0h600v130H0z"/>
+  <path fill="#000" d="M0 137h600v126H0z"/>
+  <path fill="#ffdf00" d="M0 270h600v130H0z"/>
+  <path fill="#d21034" d="M0 0 300 200 0 400z"/>
+  <path fill="#ffdf00" d="m93 112 17 35 39 6-28 27 7 39-35-19-35 19 7-39-28-27 39-6z"/>
+  <path fill="#fff" d="M67 174h48v30H67z"/>
+  <path fill="none" stroke="#d21034" stroke-width="3" d="M91 174v30m-20-23h19m-19 8h19m-19 8h19m4-16h20m-20 8h20m-20 8h20"/>
+  <path fill="#ffdf00" stroke="#000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" d="m78 166 52-49m-6-8 18 18m-67 37 10 9m35-61 10 10"/>
+  <path fill="none" stroke="#000" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" d="m81 171 48-50m-3-12 9 9m-45 56-9-9m50-56 8 8m-26 26 10 10"/>
+</svg>
